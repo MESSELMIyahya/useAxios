@@ -6,6 +6,7 @@
   ],
   "conventionalCommits.scopes": [
     "App",
-    "WWW"
+    "WWW",
+    "Hook"
   ]
 }
